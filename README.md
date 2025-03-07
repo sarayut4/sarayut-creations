@@ -1,5 +1,4 @@
-# The above files are projects created for both personal and classwork. 
-# Below, I have listed brief descriptions for each. 
+# The above files are projects created for both personal and classwork. Below, I have listed brief descriptions for each. 
 
 cyoa.py -> choose your own adventure game, basic premise involves an author being chased down by her creations. if you run out of health points, you die. Choices affect amount of health points earned and lost. 
 
